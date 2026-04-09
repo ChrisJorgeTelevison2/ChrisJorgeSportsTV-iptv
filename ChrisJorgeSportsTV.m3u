@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png", Teledeporte(Spain🇪🇸)-ChrisJorgeTelevison2
 https://d1cctoeg0n48w5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/dc396059-8648-4dff-9a90-626f1aef69ea/2.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/pbwem9y5/fanduel_common_production/df884093945b2fa117498453df626114ac03c331-5478x2434.png", FanDuel Racing(USA🇺🇸)-ChrisJorgeTelevison2
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 
@@ -2551,6 +2545,4 @@ https://dn720402.ca.archive.org/0/items/squid/SG%2008.mp4
 https://dn720402.ca.archive.org/0/items/squid/SG%2009.mp4
 
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zpsportsplus2ec.jpg", group-title="DEPORTES│ECUADOR🇪🇨", Zapping SPORTS+ 2 (ECUADOR🇪🇨)ChrisJorgeTelevison2 
-http://170.82.113.51:8899/play/a0j1/index.m3u8
 
