@@ -1,154 +1,105 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6244daca750759417e4d5be9/10696ab99e6bd31833b8e8ce5216c5de?tr=q-80&w=1920" group-title="General",ZONA TUDN
+
+########## GENERAL ##########
+
+#EXTINF:-1 group-title="General",ZONA TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona_so/zona_so.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd5aNSJKFSVDxw6Pq3ZgG8x6rCl5U6D2YMA&s" group-title="General",TUDN MX
-http://190.61.34.164:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Fox_Sports_MX.svg/revision/latest/scale-to-width-down/300?cb=20241222131951" group-title="General",FOX SPORTS 1-ChrisJorgeTelevison2
-http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg/revision/latest/scale-to-width-down/1000?cb=20241222132246" group-title="General",FOX SPORTS 2-ChrisJorgeTelevison2
-http://190.61.34.164:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg/revision/latest/scale-to-width-down/300?cb=20241222132427" group-title="General",FOX SPORTS 3-ChrisJorgeTelevison2
-http://190.61.34.164:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Fox_Sports_Premium_MX_II.svg/revision/latest/scale-to-width-down/1000?cb=20241222132515" group-title="General",FOX SPORTS Premium-ChrisJorgeTelevison2
-http://yoshiro.cu.ma/deportivo111/104.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDm9IHSp4Jjd2mZ5NEw4Ol_8uwVUXSsyJEGC0Nh0bV4id0l4Wu4NNoiXLa-zHUhhwgRbL-LobbiM4cDYbJ5tJcapnzJlN6HWkzK84uoIsdQx4NEdUXH7lBUShyyFnp8udFc4QmS0xMEausePtT4HklIekitCuWEqcj1RgYoS6ISnmvOzmPIrclCTsDpVI/s416/ECDF.png" group-title="General",El Canal Del Futbol 
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjohX51mT0WWMQrMG-VF2CJpYrjD5OhhSf55Hg9LPufmNRfYTfl-k4k6XWi57WFQarfqeieMIMH0dtU7rpLheu0yxCJDCzUPjj1UIbvVgfmJq1YBvW5v1VffA8r8eiAZAFgYC5u8_9Cn6YYo9Z5nj0o8IjPrqAjwVJAl9nXmBjv6b9BSN_a2A7t9HtUtLY/s227/EDCF%20LP.png" group-title="General",El Canal Del Futbol 
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="General",Dsports
-http://177.10.184.60:8002/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="General",Dsports 2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s" group-title="General",Dsports+
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/3/3a/2000px-ESPN_Deportes_logo.png/revision/latest?cb=20121007054058" group-title="General",ESPN Deportes
-http://200.58.64.244:9000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd5aNSJKFSVDxw6Pq3ZgG8x6rCl5U6D2YMA&s" group-title="General",TUDN
+
+#EXTINF:-1 group-title="General",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a7/Logotipo_da_WFUT-DT.png" group-title="General",UniMas
+
+#EXTINF:-1 group-title="General",UniMas
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut_so/wfut_so.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtjKSgHlpQ00GGAug3m74d-SyOA5Yi2VBUQ&s" group-title="General",Univision 41 
+
+#EXTINF:-1 group-title="General",Univision 41
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-30&w=1920" group-title="General",ViX JaJaJa 
+
+#EXTINF:-1 group-title="General",ViX JaJaJa
 https://live-ak.vimeocdn.com/exp=1775699174~acl=%2F35af1c7d-65fa-42f5-a067-3c2402ddae93_fmp4%2F%2A~hmac=25e1340855dfd01729952b8021dc13346ed5a95b927bd4869b9b9aa9da2d0daf/35af1c7d-65fa-42f5-a067-3c2402ddae93_fmp4/avc/1080p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrUj1qQNcOrunz_zVTg3fzgkX5IGM__FHpg&s" group-title="General",ZONA VIX
+
+#EXTINF:-1 group-title="General",ZONA VIX
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix_so/vix_so.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f837a07716418e3547bfaf/a7f93efc739e0e2e99a254741a992c96?tr=q-80&w=1920" group-title="General",Aquí y Ahora
-https://d3unbvkahyadn8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4ftct3puiiwx/server/distrib/Akpqp9fxaoNEhJdj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqkX5uHc8eRVb60iX16U2aobDsXJ7NO8RHvpYQqDRkxZBBpnbZ30EfJ5Y7DcgknHG0y0NUVhfFbcGhU1QwKDtyRDiVTRz1qnPiGPx2pDTzYwjy3Cnzu3H8a8QqSN81xrBbMn_a9QPbLYBiU0Vxpp51_nSkXqaALVcAlHcIBricX_5kWp2LS7TLb7_M73T_C0JUA/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uMDC_ZCZXk4i6YfmdiiPfWRBzYKwdpk9pP2gDmg6qkOWBqodlLBdIYPTJTbX8ZxyTA" group-title="General",Fox Deportes
-http://200.58.64.244:9000/play/a015/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s" group-title="General",TELEMUNDO 47
-https://futbol.ultratv.workers.dev/deportivo111/73.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dcf244bfae.png" group-title="General",SPORTV
-https://canaiss.fazoeli.co.za/fontes/smart/sportv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="General",SPORTV 2
-https://canaiss.fazoeli.co.za/fontes/smart/sportv2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="General",SPORTV 3
-https://canaiss.fazoeli.co.za/fontes/smart/sportv3.m3u8
-#EXTINF:-1 tvg-logo="https://www.pbfilm.com/upload/editor/ESPN.png" group-title="General",ESPN
-https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="General",ESPN 2
-https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="General",ESPN 3
-https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="General",ESPN 4
-https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="General",ESPN 5
-https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytqpt1437614690.png" group-title="General",Premiere Clubes
-https://canaiss.fazoeli.co.za/fontes/smart/premiere.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytqpt1437614690.png" group-title="General",Premiere Clubes 2
-https://canaiss.fazoeli.co.za/fontes/smart/premiere2.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytqpt1437614690.png" group-title="General",Premiere Clubes 3
-https://canaiss.fazoeli.co.za/fontes/smart/premiere3.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytqpt1437614690.png" group-title="General",Premiere Clubes 4
-https://canaiss.fazoeli.co.za/fontes/smart/premiere4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="General",NBA TV
+
+#EXTINF:-1 group-title="General",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" group-title="General",Netflix PPV
-https://live20.bozztv.com/giatv/giatv-Eventos-ChrisJorgeTelevison2/Eventos-ChrisJorgeTelevison2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pbfilm.com/upload/editor/ESPN.png" group-title="General",ESPN
-http://181.13.252.102:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/960px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="General",Bein Sports
-http://yoshiro.cu.ma/deportivo111/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/BeinSports2.svg/revision/latest?cb=20230910185720" group-title="General",Bein Sports 2
-http://yoshiro.cu.ma/deportivo111/2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/BeIN_Sports_3_2017_Rectangle.png/revision/latest/scale-to-width-down/500?cb=20251213114000" group-title="General",Bein Sports 3
-http://yoshiro.cu.ma/deportivo111/3.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Logo_bein_sports_4.png/revision/latest/scale-to-width-down/1000?cb=20251213115820" group-title="General",Bein Sports 4
-http://yoshiro.cu.ma/deportivo111/4.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BeIN%2Bsports%2B5.png/revision/latest/scale-to-width-down/1000?cb=20251214104942" group-title="General",Bein Sports 5
-http://yoshiro.cu.ma/deportivo111/5.m3u8
-#EXTINF:-1 tvg-logo="https://www.infinitydish.com/wp-content/themes/infinity-dish-v2/inc/img/BEIN6.png" group-title="General",Bein Sports 6
-http://yoshiro.cu.ma/deportivo111/6.m3u8
-#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png" group-title="General",Bein Sports 7
-http://yoshiro.cu.ma/deportivo111/7.m3u8
-#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN8.png" group-title="General",Bein Sports 8
-http://yoshiro.cu.ma/deportivo111/8.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaPXtl8hKPLQFq2EHlMAGgb0KPyUS8BYbBYKhscds2-B72WN4nLQsDxfsE6W-C9jRiMN7HP69pIjAtHXCeYWoXeuj-kueXKlHRGvPNc6YbOzN-sjKrP1kFfbA-jLDodsFL6yp_BnNOLlCp0t618eSDh5bYXRoffC9nm1DjAEpIhbFk2Jzcq69ww4_pkYca/s320/Beinsports9MAX.png" group-title="General",Bein Sports 9
-http://yoshiro.cu.ma/deportivo111/9.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj16mseMru29fOz8omDIen7N9ZqoN31cVoaAcKodEh8TG-u5f3r3T3iEbzM6h8UCDZyihWYcCrurZRq16LVzws2opR0L7mUx3b9ZcSnQtDqQjn9RzOjALT6X7ldcZu4szxCBfVztuPMYNSOyhdObvNPo8wjON54HxuN6IPOiNgZVHUpbCDGCtSwN63EkQIt/s320/Bein_Sports_Max_10.png" group-title="General",Bein Sports 10
-http://yoshiro.cu.ma/deportivo111/10.m3u8
 
+########## SPORTS ##########
 
-########## SECTION: DEPORTES│ECUADOR🇪🇨 ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png",group-title="DEPORTES│ECUADOR🇪🇨", ESPN -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKwNqkaSVjywFb9NI0MmhyjuOWF2FOaJpHRxPQQ9Edo0GjdpTQXOfTRTIkwoh_3Tz3HGkmeOnyhXa8C63zC_l8Qfj6PUorRukC3pJGxBIOfpkAHH7F0-BOvWTU-_7UrHohbibLZS-rN8WIf4toLtLqT3owRfjUlBSW-UC5okg0nRK2mQC-hvVgPsYD4U/s320/espn2-ChrisJorgeTelevison2.png",group-title="DEPORTES│ECUADOR🇪🇨", ESPN 2 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN
+https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/2560px-ESPN3_logo.svg.png",group-title="DEPORTES│ECUADOR🇪🇨", ESPN 3 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 2
+https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png",group-title="DEPORTES│ECUADOR🇪🇨", ESPN 4 -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png",group-title="DEPORTES│ECUADOR🇪🇨", ESPN 5 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/388.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 3
+https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png", group-title="DEPORTES│ECUADOR🇪🇨",ESPN 6 -ChrisJorgeTelevison2
-https://xtream.videx.lol/Yoshiro/admin/420.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 4
+https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png", group-title="DEPORTES│ECUADOR🇪🇨",ESPN 7 -ChrisJorgeTelevison2
--https://xtream.videx.lol/Yoshiro/admin/421.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 5
+https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8
 
+#EXTINF:-1 group-title="Sports",SPORTV
+https://canaiss.fazoeli.co.za/fontes/smart/sportv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png", group-title="DEPORTES│ECUADOR🇪🇨", ESPN Premium -ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Sports",SPORTV 2
+https://canaiss.fazoeli.co.za/fontes/smart/sportv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png",group-title="DEPORTES│ECUADOR🇪🇨",  FOX SPORTS 1-ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png",group-title="DEPORTES│ECUADOR🇪🇨",  FOX SPORTS 2-ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1280px-Fox_Sports_3_Argentina_2023.svg.png", group-title="DEPORTES│ECUADOR🇪🇨", FOX SPORTS 3-ChrisJorgeTelevison2
-http://181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Sports",SPORTV 3
+https://canaiss.fazoeli.co.za/fontes/smart/sportv3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400", group-title="DEPORTES│ECUADOR🇪🇨", DSPORTS (ECUADOR🇪🇨)-ChrisJorgeTelevison2
-http://177.10.184.60:8002/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",group-title="DEPORTES│ECUADOR🇪🇨", DSPORTS (BackUP)-ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es", group-title="DEPORTES│ECUADOR🇪🇨", DSPORTS 2 (ECUADOR🇪🇨)-ChrisJorgeTelevison2
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/DSportsM%C3%A1s.png/revision/latest?cb=20221114124037s", group-title="DEPORTES│ECUADOR🇪🇨", DSPORTS+ (ECUADOR🇪🇨)-ChrisJorgeTelevison2
- http://217.26.190.76:8888/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDm9IHSp4Jjd2mZ5NEw4Ol_8uwVUXSsyJEGC0Nh0bV4id0l4Wu4NNoiXLa-zHUhhwgRbL-LobbiM4cDYbJ5tJcapnzJlN6HWkzK84uoIsdQx4NEdUXH7lBUShyyFnp8udFc4QmS0xMEausePtT4HklIekitCuWEqcj1RgYoS6ISnmvOzmPIrclCTsDpVI/s416/ECDF.png",group-title="DEPORTES│ECUADOR🇪🇨", EDCF (ECUADOR🇪🇨)-ChrisJorgeTelevison2
-http://170.82.113.51:8899/play/a0j1/index.m3u8
+########## MOVIES ##########
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSjcabWeogDQlJEk-5q-dv_KOCaipvJa7XAqKND2Q5k6fZfsy4AXa_vUM_fhayctOP6BYzh97WfBxwcnRDswpysQiCvRt17IqC1Ow-z-7RwUR3xFVowx3iCeN-tzy2EBc9Uyk-6bcwtVKkhMrOikfLzQOj_UKwDNwfsTtBMdEGFqf5ikmDUHpaXH0avh8/s320/ECDF2.png",group-title="DEPORTES│ECUADOR🇪🇨", EDCF 2 (ECUADOR🇪🇨)-ChrisJorgeTelevison2
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECTOCzJ5UUicBZmKxEsprG9-uDPb6NtD-OFO21Q9_twrpJ-2BK9j8qN9AT8HX9c7nNR2uZKgaUhXSO4A8mFkaQdqCvv4_FusPVzCao8RpnoP7n2aF8Nfy1ki1k6i9uMkGenpn9RL_XYvPbiS-sOMwyOuupDbwtX6CcqZXTjJ18aCmAU0f9FZQq2ACpSY/s165/edcf_3_.png", group-title="DEPORTES│ECUADOR🇪🇨",EDCF 3  (ECUADOR🇪🇨)-ChrisJorgeTelevison2
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjohX51mT0WWMQrMG-VF2CJpYrjD5OhhSf55Hg9LPufmNRfYTfl-k4k6XWi57WFQarfqeieMIMH0dtU7rpLheu0yxCJDCzUPjj1UIbvVgfmJq1YBvW5v1VffA8r8eiAZAFgYC5u8_9Cn6YYo9Z5nj0o8IjPrqAjwVJAl9nXmBjv6b9BSN_a2A7t9HtUtLY/s227/EDCF%20LP.png", group-title="DEPORTES│ECUADOR🇪🇨",EDCF LIGA PRO (ECUADOR🇪🇨)-ChrisJorgeTelevison2
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsportsec.jpg", group-title="DEPORTES│ECUADOR🇪🇨",  Zapping SPORTS (ECUADOR🇪🇨)-ChrisJorgeTelevison2 
-http://170.82.113.51:8899/play/a0j1/index.m3u8
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports2ec.jpg", group-title="DEPORTES│ECUADOR🇪🇨", Zapping SPORTS 2 (ECUADOR🇪🇨)-ChrisJorgeTelevison2 
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports3ec.jpg", group-title="DEPORTES│ECUADOR🇪🇨", Zapping SPORTS 3 (ECUADOR🇪🇨)ChrisJorgeTelevison2 
-https://streaming-live-fcdn.api.prd.univisionnow.com/blackout/blackout.isml/.m3u8
+#EXTINF:-1 group-title="Movies",Scream 7
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/yUgV3Nuu/hls/media-1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zpsportsplusec.jpg", group-title="DEPORTES│ECUADOR🇪🇨", Zapping SPORTS+ (ECUADOR🇪🇨)ChrisJorgeTelevison2 
-http://170.82.113.51:8899/play/a0j1/index.m3u8
+#EXTINF:-1 group-title="Movies",Super Mario Galaxy Movie
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/2l0tlEGz/hls/media-1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zpsportsplus2ec.jpg", group-title="DEPORTES│ECUADOR🇪🇨", Zapping SPORTS+ 2 (ECUADOR🇪🇨)ChrisJorgeTelevison2 
-http://170.82.113.51:8899/play/a0j1/index.m3u8
+########## SERIES ##########
 
+#EXTINF:-1 group-title="Series",Squid Game S01E01
+https://dn720402.ca.archive.org/0/items/squid/SG%2001.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E02
+https://dn720402.ca.archive.org/0/items/squid/SG%2002.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E03
+https://dn720402.ca.archive.org/0/items/squid/SG%2003.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E04
+https://dn720402.ca.archive.org/0/items/squid/SG%2004.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E05
+https://dn720402.ca.archive.org/0/items/squid/SG%2005.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E06
+https://dn720402.ca.archive.org/0/items/squid/SG%2006.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E07
+https://dn720402.ca.archive.org/0/items/squid/SG%2007.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E08
+https://dn720402.ca.archive.org/0/items/squid/SG%2008.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S01E09
+https://dn720402.ca.archive.org/0/items/squid/SG%2009.mp4
+
+#EXTINF:-1 group-title="Series",Squid Game S2E1
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/__CdxDQE/hls/media-2/stream.m3u8
+
+#EXTINF:-1 group-title="Series",Squid Game S2E2
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/pOdkJAN6/hls/media-1/stream.m3u8
+
+#EXTINF:-1 group-title="Series",Squid Game S2E4
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/1JXpTAiQ/hls/media-2/stream.m3u8
+
+#EXTINF:-1 group-title="Series",Squid Game S2E5
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/7CGPBank/hls/media-1/stream.m3u8
+
+#EXTINF:-1 group-title="Series",Squid Game S2E6
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/qbj5UEMG/hls/media-1/stream.m3u8
+
+#EXTINF:-1 group-title="Series",Squid Game S2E7
+https://stream.adilo.com/adilo-encoding/0jeLtrnZUlTmvfKV/GEPOMl67/hls/media-2/stream.m3u8
